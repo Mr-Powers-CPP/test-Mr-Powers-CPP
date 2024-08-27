@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/Kris/Documents/Classes/ETE1150/The-C-20-Masterclass-Source-Code/4.VariablesAndDatatypes/4.3IntegerTypes",
+      "program": "/Users/Kris/Documents/Classes/ETE1150/The-C-20-Masterclass-Source-Code/4.VariablesAndDatatypes/4.3IntegerTypes/build/Debug/outDebug"
+    }
+  ]
+}
